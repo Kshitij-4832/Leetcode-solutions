@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0136-single-number) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

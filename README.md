@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Math
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

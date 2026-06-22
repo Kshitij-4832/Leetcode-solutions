@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1154-day-of-the-year](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 <!---LeetCode Topics End-->

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [1154-day-of-the-year](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Brainteaser
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->

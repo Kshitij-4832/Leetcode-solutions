@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1572-matrix-diagonal-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Counting Sort
 |  |
 | ------- |

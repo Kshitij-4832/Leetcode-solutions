@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

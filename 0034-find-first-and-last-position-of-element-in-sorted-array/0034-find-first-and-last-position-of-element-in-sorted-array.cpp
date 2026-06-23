@@ -22,7 +22,6 @@ public:
                     end--;
                 }
             }
-            return vec;
         }
         if (target >= nums[mid])
         {

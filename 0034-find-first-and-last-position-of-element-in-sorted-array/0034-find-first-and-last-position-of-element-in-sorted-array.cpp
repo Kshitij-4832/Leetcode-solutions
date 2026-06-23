@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
+    // Find the starting and ending index for the repeated number was the most challenging part via Binary Search.
     vector<int> vec = {0,0};
     int size = nums.size();
     int start = 0, end = size - 1;

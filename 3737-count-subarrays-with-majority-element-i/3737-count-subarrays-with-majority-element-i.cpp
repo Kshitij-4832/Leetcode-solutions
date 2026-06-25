@@ -2,7 +2,8 @@ class Solution {
 public:
     int countMajoritySubarrays(vector<int>& nums, int target) {
         int size = nums.size(),count = 0,freq=0;
-
+        //Took some hints but got it.
+        //Learned a new trick to from fetch subarrays , in O(N^2).
         for(int i=0;i<size;i++){
             //int maj = 0;
             for(int j = i;j<size;j++){

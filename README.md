@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |

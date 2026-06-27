@@ -6,8 +6,8 @@ public:
             if(nums[end]==0){
                 start = end+1;
             }
+            maxlen = max(maxlen,end-start+1);
             end++;
-            maxlen = max(maxlen,end-start);
         }
         return maxlen;
     }

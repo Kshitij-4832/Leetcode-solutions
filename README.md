@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0507-perfect-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
@@ -206,5 +208,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

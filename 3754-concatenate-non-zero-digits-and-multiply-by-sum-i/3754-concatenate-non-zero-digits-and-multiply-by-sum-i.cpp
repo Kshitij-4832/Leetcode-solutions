@@ -11,6 +11,7 @@ public:
             n = n/10;
         }
         return sum*x;
-        
+        //Time complexity-->O(log n)
+        //Space complexity-->O(1)   
     }
 };

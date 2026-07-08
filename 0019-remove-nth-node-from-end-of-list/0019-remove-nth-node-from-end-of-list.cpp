@@ -18,7 +18,10 @@ public:
             temp = temp->next;
         }
         if (size == n) {
-            return head->next;
+            ListNode *del = head;
+            head = head->next;
+            delete del;
+            return head;
         } else {
             int pos = size - n;
             temp = head;

@@ -36,6 +36,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -237,6 +238,7 @@
 | [0169-majority-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -254,6 +256,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |

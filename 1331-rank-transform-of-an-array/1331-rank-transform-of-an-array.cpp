@@ -10,7 +10,7 @@ public:
         unordered_map<int, int> mpp;
         int k = 1;
         for (int i = 0; i < size; i++) {
-            if(mpp.find(copy[i])==mpp.end()){
+            if (mpp.find(copy[i]) == mpp.end()) {
                 mpp[copy[i]] = k;
                 k++;
             }

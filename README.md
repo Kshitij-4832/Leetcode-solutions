@@ -82,6 +82,7 @@
 | [0009-palindrome-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -299,4 +301,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

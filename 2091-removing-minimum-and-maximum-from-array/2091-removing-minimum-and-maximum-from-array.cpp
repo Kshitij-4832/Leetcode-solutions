@@ -21,10 +21,10 @@ public:
             }
         }
 
-        int a = max(min_index, max_index) + 1;
-        int b = min_index + (size - max_index) + 1;
-        int c = max_index + (size - min_index) + 1;
-        int d = size - min(min_index, max_index);
+        int a = max(min_index, max_index) + 1;//Delete both from front
+        int b = min_index + (size - max_index) + 1;//delete min from front and max from back
+        int c = max_index + (size - min_index) + 1;//delete max from front and min from back
+        int d = size - min(min_index, max_index);//delete both from back
         return min({a,b,c,d});
     }
 };

@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -147,6 +148,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -167,6 +169,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -231,6 +234,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Geometry
@@ -331,4 +335,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

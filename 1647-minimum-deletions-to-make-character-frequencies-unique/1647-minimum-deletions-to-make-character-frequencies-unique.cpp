@@ -13,9 +13,9 @@ public:
                 break;
             }
             if (freq[i] >= freq[i + 1]) {
-                int prev = freq[i];
+                int curr = freq[i];
                 freq[i] = max(0, freq[i + 1] - 1);
-                deletions += prev - freq[i];
+                deletions += curr - freq[i];
             }
         }
         return deletions;

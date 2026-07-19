@@ -90,6 +90,7 @@
 | [0050-powx-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0204-count-primes) |

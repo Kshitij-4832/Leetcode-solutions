@@ -7,6 +7,7 @@ public:
             for (int j = 0; j < s2; j++) {
                 if (nums1[i] == nums2[j]) {
                     sets.insert(nums1[i]);
+                    break;
                 }
             }
         }

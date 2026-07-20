@@ -29,6 +29,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -79,6 +80,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -125,6 +127,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -184,6 +187,7 @@
 | [0202-happy-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -286,6 +290,7 @@
 | [0202-happy-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |

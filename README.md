@@ -58,6 +58,7 @@
 | [2105-watering-plants-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -286,6 +287,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -307,6 +309,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |

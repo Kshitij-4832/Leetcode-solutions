@@ -1,5 +1,13 @@
 class Solution {
 public:
+    vector<int> reverse(vector<int>& nums, int start, int end) {
+        while (start < end) {
+            swap(nums[start], nums[end]);
+            start++;
+            end--;
+        }
+        return nums;
+    }
     void nextPermutation(vector<int>& nums) {
         int size = nums.size();
         for (int i = size - 1; i >= 0; i--) {
@@ -13,16 +21,11 @@ public:
                         }
                     }
                     swap(nums[i - 1], nums[index]);
-                    sort(nums.begin() + i, nums.end());
+                    reverse(nums,i,size-1);
                     break;
                 }
             } else {
-                int start = 0, end = size - 1;
-                while (start < end) {
-                    swap(nums[start], nums[end]);
-                    start++;
-                    end--;
-                }
+                reverse(nums,0,size-1);
             }
         }
     }

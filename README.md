@@ -37,6 +37,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -115,6 +116,7 @@
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -142,6 +144,7 @@
 | [0229-majority-element-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |

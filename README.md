@@ -252,6 +252,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Brainteaser
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Segment Tree
 |  |
 | ------- |

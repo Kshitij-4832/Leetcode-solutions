@@ -1,15 +1,11 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        unordered_map<char,int>mpp;
+        set<char>mpp;
         int size = s.length();
-        int count = 0;
         for(int i = 0;i<size;i++){
-            if(mpp.find(s[i])==mpp.end()){
-                count++;
-            }
-            mpp[s[i]]++;
+            mpp.insert(s[i]);
         }
-        return count;
+        return mpp.size();
     }
 };

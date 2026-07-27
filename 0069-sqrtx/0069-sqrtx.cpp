@@ -8,11 +8,11 @@ public:
             return 1;
         }
 
-        double start = 1, end = x;
+        int start = 1, end = x;
         long long int mid = -1;
 
         while (start <= end) {
-            mid = (start + end) / 2;
+            mid = start+(end-start) / 2;
             if (mid * mid > x) {
                 end = mid - 1;
             } else if (mid * mid == x) {
@@ -21,6 +21,6 @@ public:
                 start = mid + 1;
             }
         }
-        return floor(end);
+        return end;
     }
 };

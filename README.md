@@ -134,6 +134,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -235,6 +236,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |

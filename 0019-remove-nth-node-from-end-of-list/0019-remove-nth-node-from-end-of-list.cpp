@@ -14,23 +14,23 @@ public:
         int size = 0;
         ListNode* temp = head;
         while (temp != NULL) {
-            size++;
             temp = temp->next;
+            size++;
         }
+        if (size == 1) {
+            return NULL;
+        }
+        int pos = size - n - 1;
+        temp = head;
         if (size == n) {
-            ListNode *del = head;
             head = head->next;
-            delete del;
+            temp = NULL;
             return head;
         } else {
-            int pos = size - n;
-            temp = head;
-            for (int i = 1; i < pos; i++) {
+            for (int i = 0; i < pos; i++) {
                 temp = temp->next;
             }
-            ListNode* p2 = temp->next->next;
-            temp->next = p2;
-            temp = NULL;
+            temp->next = temp->next->next;
         }
         return head;
     }

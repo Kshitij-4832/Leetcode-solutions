@@ -267,6 +267,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -324,6 +325,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -352,6 +354,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |

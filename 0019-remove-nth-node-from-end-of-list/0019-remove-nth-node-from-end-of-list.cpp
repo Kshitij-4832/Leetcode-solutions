@@ -25,12 +25,17 @@ public:
         if (size == n) {
             head = head->next;
             temp = NULL;
+            delete temp;
             return head;
         } else {
             for (int i = 0; i < pos; i++) {
                 temp = temp->next;
             }
-            temp->next = temp->next->next;
+            ListNode* ptr = temp;
+            ptr->next = temp->next->next;
+            temp = temp->next;
+            temp = NULL;
+            delete temp;
         }
         return head;
     }

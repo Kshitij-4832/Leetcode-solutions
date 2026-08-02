@@ -243,6 +243,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0206-reverse-linked-list) |

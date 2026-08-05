@@ -40,6 +40,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
@@ -76,6 +77,7 @@
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0509-fibonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1154-day-of-the-year) |
@@ -280,6 +283,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
@@ -384,6 +388,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0292-nim-game) |
+| [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Enumeration
 |  |
@@ -418,4 +423,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->

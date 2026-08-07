@@ -66,6 +66,7 @@
 | [2126-destroying-asteroids](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3731-find-missing-elements](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -137,6 +138,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -184,6 +186,7 @@
 | [2079-watering-plants](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -193,6 +196,7 @@
 | [0258-add-digits](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -422,6 +426,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

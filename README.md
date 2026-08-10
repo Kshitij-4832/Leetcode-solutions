@@ -128,6 +128,7 @@
 | [0292-nim-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0445-add-two-numbers-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -324,6 +325,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Geometry
@@ -436,6 +438,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

@@ -36,8 +36,7 @@ public:
             ans[0] = INT_MAX;
             ans[1] = criticalpoints[size - 1] - criticalpoints[0];
             for (int i = 0; i < size - 1; i++) {
-                ans[0] =
-                    min(ans[0], abs(criticalpoints[i + 1] - criticalpoints[i]));
+                ans[0] = min(ans[0], criticalpoints[i + 1] - criticalpoints[i]);
             }
         }
         return ans;

@@ -75,6 +75,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -87,6 +88,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |

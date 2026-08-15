@@ -23,6 +23,7 @@
 | [0066-plus-one](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -82,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -493,4 +495,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

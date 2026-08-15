@@ -156,6 +156,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -215,6 +216,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -460,6 +462,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Combinatorics
 |  |

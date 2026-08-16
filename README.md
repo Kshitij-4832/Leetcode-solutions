@@ -246,6 +246,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -451,6 +452,7 @@
 | [0002-add-two-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0206-reverse-linked-list) |

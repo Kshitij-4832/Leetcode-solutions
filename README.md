@@ -211,6 +211,7 @@
 | [2079-watering-plants](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -476,6 +477,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Combinatorics

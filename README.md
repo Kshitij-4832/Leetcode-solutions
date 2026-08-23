@@ -308,6 +308,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -350,6 +351,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -531,4 +533,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

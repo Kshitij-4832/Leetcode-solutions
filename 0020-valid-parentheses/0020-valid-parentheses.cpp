@@ -13,7 +13,7 @@ public:
                 if(st.empty()){
                     return false;
                 }
-                if ((s[i] == ')' && st.top() == '(') ||
+                else if((s[i] == ')' && st.top() == '(') ||
                     (s[i] == ']' && st.top() == '[') ||
                     s[i] == '}' && st.top() == '{') {
                     st.pop();

@@ -43,6 +43,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -356,6 +357,7 @@
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -413,6 +415,7 @@
 | [0242-valid-anagram](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -506,6 +509,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Zero-Sum Game
 |  |
 | ------- |

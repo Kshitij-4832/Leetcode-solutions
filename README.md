@@ -86,6 +86,7 @@
 | [3731-find-missing-elements](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3978-unique-middle-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -402,6 +403,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3978-unique-middle-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |

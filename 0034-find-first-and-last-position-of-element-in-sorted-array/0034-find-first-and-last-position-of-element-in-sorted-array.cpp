@@ -1,51 +1,41 @@
 class Solution {
 public:
-    int search_left(int target,vector<int>& nums,bool checkleft){
-        int start = 0,end =nums.size()-1,ans = 0;
-        while(start<=end){
-            int mid =  (start+end) /2;
+    int Lower_Bound(vector<int>& nums, int target) {
+        int left = 0, right = nums.size() - 1,ans = -1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
             if(nums[mid]==target){
-                ans =  mid;  
-                end = mid-1;       
-                checkleft=true;
+                ans = mid;
             }
-            else if(target>nums[mid]){
-                start = mid+1;
+            if(nums[mid]>=target){
+                right = mid-1;
             }
             else{
-                end =  mid-1;
+                left = mid+1;
             }
         }
-        if(checkleft){
-            return ans;
-        }
-        return -1;
+        return ans;
     }
-     int search_right(int target,vector<int>& nums,bool checkright){
-        int start = 0,end =nums.size()-1,ans = 0;
-        while(start<=end){
-            int mid =  (start+end) /2;
+    int Upper_Bound(vector<int>& nums, int target) {
+        int left = 0, right = nums.size() - 1,ans = -1;
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
             if(nums[mid]==target){
-                ans =  mid;  
-                start = mid+1; 
-                checkright = true;      
+                ans = mid;
             }
-            else if(target>nums[mid]){
-                start = mid+1;
+            if(nums[mid]>target){
+                right = mid-1;
             }
             else{
-                end =  mid-1;
+                left = mid+1;
             }
         }
-        if(checkright){
-            return ans;
-        }
-        return -1;
+        return ans;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int>index = {-1,-1};
-        index[0] = search_left(target,nums,false);
-        index[1] = search_right(target,nums,false);
-        return index;
+        int lb = Lower_Bound(nums,target);
+        int ub = Upper_Bound(nums,target);
+        vector<int> ans = {lb,ub};
+        return ans;
     }
 };

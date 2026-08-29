@@ -1,41 +1,44 @@
 class Solution {
 public:
-    int Lower_Bound(vector<int>& nums, int target) {
-        int left = 0, right = nums.size() - 1,ans = -1;
+    int rightsearch(vector<int>& nums, int target) {
+        int left = 0, right = nums.size() - 1;
+        int ans = -1;
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if(nums[mid]==target){
+            if (nums[mid] == target) {
                 ans = mid;
-            }
-            if(nums[mid]>=target){
-                right = mid-1;
-            }
-            else{
-                left = mid+1;
+                left = mid + 1;
+            } else if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
             }
         }
         return ans;
     }
-    int Upper_Bound(vector<int>& nums, int target) {
-        int left = 0, right = nums.size() - 1,ans = -1;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+    int leftsearch(vector<int>& nums, int target) {
+        int left = 0, right = nums.size() - 1, ans = -1;
+        while(left<=right){
+            int mid = left+(right-left)/2;
             if(nums[mid]==target){
                 ans = mid;
-            }
-            if(nums[mid]>target){
                 right = mid-1;
             }
-            else{
+            else if(nums[mid]<target){
                 left = mid+1;
+            }
+            else{
+                right  = mid-1;
             }
         }
         return ans;
     }
+
     vector<int> searchRange(vector<int>& nums, int target) {
-        int lb = Lower_Bound(nums,target);
-        int ub = Upper_Bound(nums,target);
-        vector<int> ans = {lb,ub};
+        // Solved using Binary Search in a more complicated way
+        int left = leftsearch(nums,target);
+        int right =  rightsearch(nums,target);
+        vector<int> ans ={left,right};
         return ans;
     }
 };

@@ -1,30 +1,22 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
-        int size = nums.size();
-        if (size == 1) {
-            return 1;
-        }
-        if (size == 2) {
-            return 2;
-        }
-        int min_index = -1, max_index = -1;
-        int MIN = INT_MAX, MAX = INT_MIN;
-        for (int i = 0; i < size; i++) {
-            if (MIN > nums[i]) {
-                MIN = nums[i];
-                min_index = i;
+        int Max = INT_MIN,Min = INT_MAX,size = nums.size(),x = 0,y = 0;
+        for(int i = 0;i<size;i++){
+            if(Max<nums[i]){
+                Max = nums[i];
+                x = i;
             }
-            if (MAX < nums[i]) {
-                MAX = nums[i];
-                max_index = i;
+            if(Min>nums[i]){
+                Min = nums[i];
+                y = i;
             }
         }
-
-        int a = max(min_index, max_index) + 1;//Delete both from front
-        int b = min_index + (size - max_index) + 1;//delete min from front and max from back
-        int c = max_index + (size - min_index) + 1;//delete max from front and min from back
-        int d = size - min(min_index, max_index);//delete both from back
+        int a = max(x,y)+1;
+        int b = x+(size-y)+1;
+        int c = y+(size-x)+1;
+        int d = size-min(x,y);
         return min({a,b,c,d});
+
     }
 };

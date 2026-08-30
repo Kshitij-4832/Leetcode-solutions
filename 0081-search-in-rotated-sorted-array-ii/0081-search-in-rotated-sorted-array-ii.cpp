@@ -1,6 +1,9 @@
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
+        //Avg case time complexity ->O(log n)
+        //Worst case time complexity ->O(n/2)
+        
         int left = 0,right = nums.size()-1;
         while(left<=right){
             int mid = left+(right-left)/2;
@@ -21,6 +24,7 @@ public:
                     left = mid+1;
                 }
             }
+            //Right sorted
             else{
                 if(nums[mid]<=target&&target<=nums[right]){
                     left = mid+1;

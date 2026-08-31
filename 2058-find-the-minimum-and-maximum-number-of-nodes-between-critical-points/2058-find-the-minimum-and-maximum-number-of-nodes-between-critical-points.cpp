@@ -32,7 +32,6 @@ public:
         }
         int size = cps.size();
         if (size >= 2) {
-            sort(cps.begin(),cps.end());
             ans[0] = INT_MAX;
             ans[1] = cps[size - 1] - cps[0];
             for(int i = 1;i<size;i++){

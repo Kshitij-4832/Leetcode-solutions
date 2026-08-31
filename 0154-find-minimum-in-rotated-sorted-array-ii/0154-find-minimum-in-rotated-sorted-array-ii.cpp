@@ -14,14 +14,11 @@ public:
                 Min = min(Min,nums[mid]);
                 continue;
             }
-            if(nums[left]<=nums[right]){
-                Min = min(Min,nums[left]);
-            }
-            if(nums[mid]>=nums[left]){//Left sorted
+            if(nums[mid]>=nums[left]&&nums[mid]>=nums[right]){//Left sorted
                 Min = min(Min,nums[left]);
                 left = mid+1;
             }   
-            else{
+            else{//Right Sorted
                 Min = min(Min,nums[mid]);
                 right = mid-1;
             }

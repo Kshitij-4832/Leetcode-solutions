@@ -5,7 +5,10 @@ public:
         int Min = INT_MAX;
         while(left<=right){
             int mid = left+(right-left)/2;
-            if(nums[mid]>=nums[left]&&nums[mid]>=nums[right]){//Left sorted
+            if(nums[left]<=nums[right]){
+                Min = min(Min,nums[left]);
+            }
+            if(nums[mid]>=nums[left]){//Left sorted
                 Min = min(Min,nums[left]);
                 left = mid+1;
             }   

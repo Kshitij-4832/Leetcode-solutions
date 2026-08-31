@@ -35,7 +35,7 @@ public:
             ans[0] = INT_MAX;
             ans[1] = cps[size - 1] - cps[0];
             for(int i = 1;i<size;i++){
-                ans[0] = min(ans[0],abs(cps[i]-cps[i-1]));
+                ans[0] = min(ans[0],cps[i]-cps[i-1]);
             }
         }
         return ans;

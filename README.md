@@ -556,4 +556,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

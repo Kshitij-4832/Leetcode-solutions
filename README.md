@@ -53,6 +53,7 @@
 | [0704-binary-search](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0810-chalkboard-xor-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0810-chalkboard-xor-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +129,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |

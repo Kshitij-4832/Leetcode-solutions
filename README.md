@@ -90,6 +90,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3978-unique-middle-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Bit Manipulation
 |  |
@@ -361,6 +362,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |

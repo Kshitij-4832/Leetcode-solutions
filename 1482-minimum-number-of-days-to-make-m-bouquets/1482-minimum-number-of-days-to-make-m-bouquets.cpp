@@ -1,36 +1,39 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, long long int m, long long int k) {
-        int Max = INT_MIN, Min = INT_MAX;
+        int Min_day = INT_MAX, Max_day = INT_MIN;
         int size = bloomDay.size();
-        for (int i = 0; i < size; i++) {
-            Max = max(Max, bloomDay[i]);
-            Min = min(Min, bloomDay[i]);
+        for (int i : bloomDay) {
+            Min_day = min(Min_day, i);
+            Max_day = max(Max_day, i);
         }
-        long long int pro = m*k;
-        if(pro>bloomDay.size()){
+        int left = Min_day, right = Max_day, ans = -1;
+        long long int product = m*k;
+        if(product>size){
             return -1;
         }
-        int left = Min, right = Max;
-        while (left <= right) {
-            int mid = (left + right) / 2, count = 0,No_of_Bouquets = 0;
-            for (int i = 0; i < size; i++) {
+        while(left<=right){
+            int mid = (left+right)/2,count =0,no_of_bouquets = 0;
+            for(int i = 0;i<size;i++){
                 if(bloomDay[i]<=mid){
                     count++;
                 }
                 else{
-                    No_of_Bouquets += count/k; 
+                    no_of_bouquets += (count/k); 
                     count = 0;
                 }
             }
-            No_of_Bouquets += count/k;
-            if(No_of_Bouquets>=m){
-                right  = mid-1;
-            }
+            no_of_bouquets += (count/k);
+
+            if(no_of_bouquets>=m){
+                ans = mid;
+                right = mid-1;
+            } 
             else{
                 left = mid+1;
             }
         }
-        return left;
+        return ans;
+
     }
 };

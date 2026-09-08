@@ -68,6 +68,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1539-kth-missing-positive-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -136,6 +137,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
 | ------- |

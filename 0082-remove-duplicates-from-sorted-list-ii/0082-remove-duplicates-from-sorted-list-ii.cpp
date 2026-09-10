@@ -20,11 +20,12 @@ public:
                 while (curr->next!=NULL&&curr->val == curr->next->val) {
                     curr = curr->next;
                 }
-                prev->next = curr->next;
+                curr = curr->next;
+                prev->next = curr;
             } else {
+                curr = curr->next;
                 prev = prev->next;
             }
-            curr = curr->next;
         }
         return dummy->next;
     }

@@ -69,6 +69,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -138,6 +139,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |

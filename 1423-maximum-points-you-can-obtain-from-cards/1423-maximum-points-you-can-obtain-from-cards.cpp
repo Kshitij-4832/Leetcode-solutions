@@ -5,9 +5,6 @@ public:
         for(int i = 0;i<k;i++){
             leftsum = leftsum+cardPoints[i];
         }
-        if(k==cardPoints.size()){
-            return leftsum;
-        }
         result = leftsum;
         int rightpointer = cardPoints.size()-1;
         k--;

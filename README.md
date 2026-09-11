@@ -91,6 +91,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3708-longest-fibonacci-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3708-longest-fibonacci-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |

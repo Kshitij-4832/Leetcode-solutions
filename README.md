@@ -246,6 +246,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -360,6 +361,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -396,6 +398,7 @@
 | [0503-next-greater-element-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Geometry
 |  |

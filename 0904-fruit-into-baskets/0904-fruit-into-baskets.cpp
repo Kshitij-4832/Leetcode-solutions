@@ -6,10 +6,6 @@ public:
         int left = 0, right = 0, maxlen = 0;
         while (right < size) {
             mpp[fruits[right]]++;
-            if (mpp.size() <= 2) {
-                maxlen = max(maxlen, right - left + 1);
-            }
-            right++;
             if (mpp.size() > 2) {
                 mpp[fruits[left]]--;
                 if (mpp[fruits[left]] == 0) {
@@ -17,6 +13,10 @@ public:
                 }
                 left++;
             }
+            if (mpp.size() <= 2) {
+                maxlen = max(maxlen, right - left + 1);
+            }
+            right++;
         }
         return maxlen;
     }

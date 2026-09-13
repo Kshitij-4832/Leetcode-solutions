@@ -6,13 +6,14 @@ public:
         while (right < size) {
             if (nums[right] == 0) {
                 zeros++;
-                while (zeros > k) {
-                    if (nums[left] == 1) {
-                        left++;
-                    } else {
-                        left++;
-                        zeros--;
-                    }
+            }
+            if(zeros>k){
+                if(nums[left]==1){
+                    left++;
+                }
+                else{
+                    left++;
+                    zeros--;
                 }
             }
             if (zeros <= k) {

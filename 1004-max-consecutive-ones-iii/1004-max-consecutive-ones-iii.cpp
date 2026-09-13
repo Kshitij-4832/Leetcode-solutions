@@ -6,8 +6,6 @@ public:
         while (right < size) {
             if (nums[right] == 0) {
                 zeros++;
-            }
-            if (nums[right] == 0) {
                 while (zeros > k) {
                     if (nums[left] == 1) {
                         left++;

@@ -8,13 +8,10 @@ public:
                 zeros++;
             }
             if(zeros>k){
-                if(nums[left]==1){
-                    left++;
-                }
-                else{
-                    left++;
+                if(nums[left]==0){
                     zeros--;
                 }
+                left++;
             }
             if (zeros <= k) {
                 maxlen = max(maxlen, right - left + 1);

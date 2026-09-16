@@ -7,7 +7,7 @@ public:
         while(right<size){
             alphabets[s[right]-'A']++;
             maxfreq = max(maxfreq,alphabets[s[right]-'A']);
-            while((right-left+1)-(maxfreq)>k){
+            if((right-left+1)-(maxfreq)>k){
                 alphabets[s[left]-'A']--;
                 maxfreq = 0;
                 for(int i = 0;i<26;i++){

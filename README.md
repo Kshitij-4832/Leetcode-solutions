@@ -360,6 +360,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1154-day-of-the-year](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -467,6 +468,7 @@
 | [0242-valid-anagram](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -504,6 +506,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |

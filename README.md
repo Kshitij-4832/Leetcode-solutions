@@ -404,6 +404,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -623,6 +624,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -633,4 +635,9 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -185,6 +186,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
@@ -397,6 +399,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
@@ -480,6 +483,7 @@
 | [0904-fruit-into-baskets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -517,6 +521,7 @@
 | [0904-fruit-into-baskets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |

@@ -189,6 +189,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1927-sum-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -426,6 +427,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
 | ------- |

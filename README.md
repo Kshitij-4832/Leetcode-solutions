@@ -80,6 +80,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -153,6 +154,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Math
 |  |
@@ -410,6 +412,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -502,6 +505,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -541,6 +545,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

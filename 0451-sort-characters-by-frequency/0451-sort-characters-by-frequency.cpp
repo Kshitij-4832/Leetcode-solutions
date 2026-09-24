@@ -17,7 +17,7 @@ public:
                     ch = itr.first;
                 }
             }
-            while(Max--){
+            for(int i = 0;i<Max;i++){
                 ans.push_back(ch);
             }
             mpp.erase(ch);

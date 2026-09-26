@@ -30,19 +30,3 @@ public:
         return res;
     }
 };
-/*
-
-                while (j < s.length() && s[j] != ')') {
-                    j++;
-                }
-
-                string key = s.substr(i + 1, j - i - 1);
-
-                auto it = mpp.find(key);
-
-                if (it != mpp.end()) {
-                    res += it->second;
-                } else {
-                    res += '?';
-                }
-*/

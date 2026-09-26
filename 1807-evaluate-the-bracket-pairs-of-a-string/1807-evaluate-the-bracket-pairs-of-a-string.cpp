@@ -1,41 +1,34 @@
 class Solution {
 public:
     string evaluate(string s, vector<vector<string>>& knowledge) {
-
-        unordered_map<string, string> mp;
-
-        for(auto &it : knowledge) {
-            mp[it[0]] = it[1];
+        string res;
+        unordered_map<string, string> mpp;
+        for (auto& it : knowledge) {
+            mpp[it[0]] = it[1];
         }
 
-        string ans = "";
-
-        for(int i = 0; i < s.length(); i++) {
-
-            if(s[i] == '(') {
-
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] == '(') {
                 int j = i + 1;
 
-                while(s[j] != ')') {
+                while (j < s.length() && s[j] != ')') {
                     j++;
                 }
 
                 string key = s.substr(i + 1, j - i - 1);
 
-                if(mp.find(key) != mp.end()) {
-                    ans += mp[key];
-                }
-                else {
-                    ans += "?";
-                }
+                auto it = mpp.find(key);
 
+                if (it != mpp.end()) {
+                    res += it->second;
+                } else {
+                    res += '?';
+                }
                 i = j;
-            }
-            else {
-                ans += s[i];
+            } else {
+                res.push_back(s[i]);
             }
         }
-
-        return ans;
+        return res;
     }
 };

@@ -20,7 +20,7 @@ public:
                 if (it != mpp.end()) {
                     res +=it->second;
                 } else {
-                    res += '?';
+                    res += "?";
                 }
                 i = j;
             } else {

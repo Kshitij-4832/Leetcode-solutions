@@ -100,6 +100,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -253,6 +254,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -344,6 +346,7 @@
 | [2105-watering-plants-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2105-watering-plants-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -360,6 +363,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion

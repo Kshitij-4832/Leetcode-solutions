@@ -3,7 +3,7 @@ public:
     string removeOuterParentheses(string s) {
         int size = s.length();
         string temp;
-        string res;
+        string res="";
         vector<string>primitives;
         stack<char>st;
         for(int i = 0;i<size;i++){
@@ -19,7 +19,7 @@ public:
             }
 
             if(st.empty()){
-                res = res+temp.substr(1,temp.length()-2);
+                res+=temp.substr(1,temp.length()-2);
                 temp="";
             }
         }

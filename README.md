@@ -433,6 +433,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Brainteaser
 |  |
 | ------- |

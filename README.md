@@ -211,6 +211,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -428,6 +429,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

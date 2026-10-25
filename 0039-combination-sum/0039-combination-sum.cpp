@@ -1,23 +1,23 @@
 class Solution {
 public:
-    void F(int index,int target,vector<int>& candidates,vector<int>& path,vector<vector<int>>& combination_sets){
+    void combinator(int index,vector<vector<int>>& matrix,vector<int>& candidates,int target,vector<int>&arr){
         if(index==candidates.size()){
             if(target==0){
-                combination_sets.push_back(path);
+                matrix.push_back(arr);
             }
             return ;
         }
         if(candidates[index]<=target){
-            path.push_back(candidates[index]);
-            F(index,target-candidates[index],candidates,path,combination_sets);
-            path.pop_back();
+            arr.push_back(candidates[index]);
+            combinator(index,matrix,candidates,target-candidates[index],arr);
+            arr.pop_back();
         }
-        F(index+1,target,candidates,path,combination_sets);
+        combinator(index+1,matrix,candidates,target,arr);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<int>path;
-        vector<vector<int>> combination_sets;
-        F(0,target,candidates,path,combination_sets);
-        return combination_sets;   
+        vector<vector<int>> matrix;
+        vector<int>arr;
+        combinator(0,matrix,candidates,target,arr);
+        return matrix;
     }
 };

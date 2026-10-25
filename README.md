@@ -687,6 +687,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0078-subsets) |
 ## Euclidean Algorithm
 |  |

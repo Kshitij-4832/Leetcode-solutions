@@ -16,6 +16,7 @@ public:
             Combinations(i+1,candidates,mat,res,target-candidates[i]);
             res.pop_back();
         }
+        return ;
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         vector<vector<int>>mat;

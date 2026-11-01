@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -515,6 +516,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -547,6 +549,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -699,6 +702,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0046-permutations) |
@@ -773,6 +777,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

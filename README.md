@@ -54,6 +54,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -201,6 +202,7 @@
 | [0367-valid-perfect-square](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +260,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0881-boats-to-save-people) |

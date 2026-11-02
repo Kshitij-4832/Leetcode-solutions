@@ -34,6 +34,7 @@
 | [0078-subsets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -321,6 +322,7 @@
 | [0055-jump-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0877-stone-game) |

@@ -81,6 +81,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -531,6 +532,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Counting Sort
 |  |
@@ -540,6 +542,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -766,6 +769,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -778,6 +782,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -792,4 +797,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

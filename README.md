@@ -122,6 +122,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3708-longest-fibonacci-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3708-longest-fibonacci-subarray) |
@@ -485,6 +486,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -636,6 +638,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Game Theory
 |  |
 | ------- |

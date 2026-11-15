@@ -273,6 +273,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -435,6 +436,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0791-custom-sort-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -581,6 +583,7 @@
 | [0496-next-greater-element-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0791-custom-sort-string) |
 | [0904-fruit-into-baskets](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |

@@ -310,6 +310,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -459,6 +460,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

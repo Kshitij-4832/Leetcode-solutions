@@ -243,6 +243,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -317,6 +318,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kshitij-4832/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
